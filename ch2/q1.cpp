@@ -1,6 +1,6 @@
 #include <iostream>
 #include <string>
-using std::cout,std::endl, std::string;
+using std::cout, std::endl, std::string;
 
 int main (){
     string name = "John", address = "New Taipei City, Taiwan";
