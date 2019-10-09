@@ -7,7 +7,7 @@ int main() {
     cout << "Please enter a celsius value: ";
     cin >> temperature;
     cout << endl;
-    cout << temperature << " degrees celsius is " << convert(temperature) << " degrees Fahrenheit.";
+    cout << temperature << " degrees celsius is " << convert(temperature) << " degrees Fahrenheit." << emdl;
     return 0;
 }
 
