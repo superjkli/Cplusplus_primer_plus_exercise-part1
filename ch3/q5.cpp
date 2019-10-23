@@ -14,8 +14,9 @@ int main() {
     cin >> US_population;
     
     //calculation
-    percentage = (long double) US_population * 100.0 / world_population;
+    percentage = 100.0 *  US_population / world_population;
 
-    cout << "The population of the US is " << percentage << " %"
-
+    cout << "The population of the US is " << percentage << "% of the world population." << endl;
+    return 0;
+}
 
