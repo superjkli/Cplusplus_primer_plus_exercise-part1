@@ -19,7 +19,7 @@ int main() {
     cout << "Enter weight: ";
     cin >> your_choice.weight;
 
-    cout << endl
+    cout << endl;
 
     cout << "Pizza company name: " << your_choice.company_name << endl;
     cout << "Pizza diameter: " << your_choice.diameter << endl;
